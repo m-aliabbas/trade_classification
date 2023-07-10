@@ -35,5 +35,9 @@ Once you have these dependencies installed, you can open the random_forest_featu
 
 Despite the data being derived from different confidential trading indicators, we were able to train a Random Forest Classifier that achieved approximately **99% accuracy**. Furthermore, we reduced the dimensionality of our dataset by selecting the top 30 features based on their importance - without compromising on the model's accuracy.
 
+
+## Confusion Matrix
+
+![ConfusionMatrix](Output/cf.png)
 ## Credit
 Mohammad Ali Abbas (Sr. ML Engr @ waspak.co)
